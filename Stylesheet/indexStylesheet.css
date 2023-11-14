@@ -1,0 +1,36 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 31 Oct, 2023, 11:30:37 AM
+    Author     : 22016788
+*/
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&display=swap');
+
+nav{
+       font-family: 'Agbalumo';
+}
+
+form {
+            margin:auto;
+            margin-left:150px;
+            width:1200px;
+            height:300px;
+            color: black;
+            padding:15px;
+            background-color: #004F9E;
+            border-radius:20px;
+            }
+            
+            img{
+                margin-left:30px;
+                height:220px;
+                width:350px;
+            }
+            
+            h3{
+                color:white;
+                margin-left:530px;
+            }
